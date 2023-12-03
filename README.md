@@ -1,6 +1,8 @@
 # twitter-phishing
 Testing if phishing works on twitter(experiment)
 
+Demo: https://x.com/_RobinRoy/status/1731364248771527133?s=20
+
 This redirects to https://chat.openai.com/ and not https://x.ai as the thumbnail suggests
 ![image](https://github.com/robinroy03/twitter-phishing/assets/115863770/1417c941-fd13-45ab-9ebf-84cd6be62a34)
 
