@@ -1,4 +1,4 @@
-# twitter-phishing
+# twitter-phishing (looks like they fixed)
 Testing if phishing works on twitter(experiment)
 
 Demo: https://x.com/_RobinRoy/status/1731364248771527133?s=20
