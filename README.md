@@ -1,4 +1,4 @@
-# twitter-phishing (looks like they fixed)
+# twitter-phishing ~(looks like they fixed)~
 Testing if phishing works on twitter(experiment)
 
 Demo: https://x.com/_RobinRoy/status/1731364248771527133?s=20
@@ -20,3 +20,6 @@ Twitterbot goes to the posted link and looks at the Location response header to 
 This makes it very easy to trick people.
 
 The code is inspired by [eykrehbein/fake-og](https://github.com/eykrehbein/fake-og) and this [tweet](https://x.com/webeyk/status/1731073202346926367?s=20) and [this](https://x.com/paulgb/status/1731025301281329318?s=20)
+
+
+It's still alive lol, in a [slightly different form](https://x.com/Hacksore/status/1919076710323978595) 
